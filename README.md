@@ -20,14 +20,13 @@ An AI-powered application for automated resume classification using **Natural La
 
 ## 🗂️ Project Structure
 
-
-
 Resume-Classifier-AI/
 ├── Resume_classifier_AI.ipynb   # Jupyter Notebook used to train and save the model
 ├── app.py                       # Streamlit web app to run the classifier
 ├── resume_model.pkl             # Saved trained ML model (Logistic Regression)
 ├── tfidf_vectorizer.pkl         # Saved TF-IDF vectorizer
 └── requirements.txt             # Python dependencies for the project
+
 
 
 ---
@@ -77,7 +76,8 @@ Simply drag and drop your resume (PDF), and the app will predict the job categor
 - streamlit run app.py
 ---
 ### Example Use Case
-A recruiter uploads 100+ resumes, and this tool can auto-sort them into job categories (e.g., Data Science, HR) for faster filtering and shortlisting.
+
+ A recruiter uploads 100+ resumes, and this tool can auto-sort them into job categories (e.g., Data Science, HR) for faster filtering and shortlisting.
 ---
 ### 📃 License
 This project is intended for educational purposes only and is open-source under the MIT License.
