@@ -21,11 +21,11 @@ An AI-powered application for automated resume classification using **Natural La
 ## 🗂️ Project Structure
 
 Resume-Classifier-AI/
-├── Resume_classifier_AI.ipynb
-├── app.py
-├── resume_model.pkl
-├── tfidf_vectorizer.pkl
-└── requirements.txt
+-├── Resume_classifier_AI.ipynb
+-├── app.py
+-├── resume_model.pkl
+-├── tfidf_vectorizer.pkl
+-└── requirements.txt
 
 ---
 
