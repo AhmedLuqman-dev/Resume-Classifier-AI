@@ -17,16 +17,7 @@ An AI-powered application for automated resume classification using **Natural La
 - ☁️ Deployed easily on **Streamlit Cloud**
 
 ---
-## 📁 Project Structure
-
----
-Resume-Classifier-AI/
-├── Resume_classifier_AI.ipynb # Jupyter Notebook used to train and save the model
-├── app.py # Streamlit web app to run the classifier
-├── resume_model.pkl # Saved trained ML model (Logistic Regression)
-├── tfidf_vectorizer.pkl # Saved TF-IDF vectorizer
-└── requirements.txt # Python dependencies for the project
-
+<pre><code>```text Resume-Classifier-AI/ ├── Resume_classifier_AI.ipynb # Jupyter Notebook used to train and save the model ├── app.py # Streamlit web app to run the classifier ├── resume_model.pkl # Saved trained ML model (Logistic Regression) ├── tfidf_vectorizer.pkl # Saved TF-IDF vectorizer └── requirements.txt # Python dependencies for the project ```</code></pre>
 ---
 
 ## 🔧 Technologies Used
