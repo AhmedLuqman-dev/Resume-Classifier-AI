@@ -1,7 +1,8 @@
 # Resume-Classifier-AI
+
 A web app that uses NLP and machine learning to classify resumes (PDF) into job categories like Data Science, HR, or Java Developer. Built using TF-IDF and logistic regression on a real-world dataset with drag-and-drop upload and dark mode UI.
 ---
-###🧠 Resume Classifier AI | NLP + Machine Learning + Streamlit
+### 🧠 Resume Classifier AI | NLP + Machine Learning + Streamlit
 
 An AI-powered application for automated resume classification using **Natural Language Processing (NLP)** and **Machine Learning**. This tool classifies resumes into job categories like *Data Science*, *Web Developer*, *HR*, and more using a trained model and a streamlined user interface built with **Streamlit**.
 
