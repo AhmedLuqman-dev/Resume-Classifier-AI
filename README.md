@@ -1,13 +1,13 @@
 # Resume-Classifier-AI
 A web app that uses NLP and machine learning to classify resumes (PDF) into job categories like Data Science, HR, or Java Developer. Built using TF-IDF and logistic regression on a real-world dataset with drag-and-drop upload and dark mode UI.
 ---
-# 🧠 Resume Classifier AI | NLP + Machine Learning + Streamlit
+###🧠 Resume Classifier AI | NLP + Machine Learning + Streamlit
 
 An AI-powered application for automated resume classification using **Natural Language Processing (NLP)** and **Machine Learning**. This tool classifies resumes into job categories like *Data Science*, *Web Developer*, *HR*, and more using a trained model and a streamlined user interface built with **Streamlit**.
 
 ---
 
-## 🚀 Key Features
+### 🚀 Key Features
 
 - 📄 **Upload PDF Resumes** via drag-and-drop
 - 🧠 **TF-IDF Vectorization** for text processing
@@ -17,7 +17,7 @@ An AI-powered application for automated resume classification using **Natural La
 - ☁️ Deployed easily on **Streamlit Cloud**
 
 ---
-## 🗂️ Project Structure
+### 🗂️ Project Structure
 <pre><code>Resume-Classifier-AI/ 
  ├── Resume_classifier_AI.ipynb # Jupyter Notebook used to train and save the model 
  ├── app.py # Streamlit web app to run the classifier 
@@ -26,7 +26,7 @@ An AI-powered application for automated resume classification using **Natural La
  └── requirements.txt # Python dependencies for the project</code></pre>
 ---
 
-## 🔧 Technologies Used
+### 🔧 Technologies Used
 
 - **Python 3**
 - **Scikit-learn**
@@ -37,7 +37,7 @@ An AI-powered application for automated resume classification using **Natural La
 
 ---
 
-## 📌 How It Works
+### 📌 How It Works
 
 1. Upload a resume (PDF)
 2. The app extracts text from the file
@@ -47,7 +47,7 @@ An AI-powered application for automated resume classification using **Natural La
 
 ---
 
-## 🌐 Live Demo
+### 🌐 Live Demo
 
 🎉 Try the project live, no installation needed:
 
@@ -59,9 +59,9 @@ Simply drag and drop your resume (PDF), and the app will predict the job categor
 
 ---
 
-## 🛠️ How to Run This Project Locally
+### 🛠️ How to Run This Project Locally
 
-### 1. Clone this repository
+##### 1. Clone this repository
 
 - git clone https://github.com/AhmedLuqman-dev/Resume-Classifier-AI.git
 - cd Resume-Classifier-AI
